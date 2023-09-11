@@ -14,6 +14,3 @@
     - 'diff --staged': shows you the diff of the fiels in the staging area
 
 - 'restore --staged <FILENAME>': unstages
-
-I Dont want this change! 
-My mistake 
