@@ -1,4 +1,4 @@
-# 2023-09-11-git_history
+# 2023-09-11-git_history Lecture3
 
 - 'add <FILENAMES>': adding the (filename) to the staging area
 - 'commit -m"messaege"': commit witha  message everyhing in the stagin area
